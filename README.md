@@ -327,33 +327,6 @@ The project was validated through multiple stages:
 
 ---
 
-# Team Workflow
-
-This repository is designed for collaborative development.
-
-Future phases can be added through:
-
-* Feature branches
-* Pull Requests
-* Code reviews
-* Separate phase documentation
-
-Recommended workflow:
-
-```text
-Create Branch
-      ↓
-Develop Feature
-      ↓
-Test Changes
-      ↓
-Create Pull Request
-      ↓
-Review and Merge
-```
-
----
-
 # Project Status
 
 The complete Superstore analytics pipeline is currently finished.
